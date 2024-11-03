@@ -1,6 +1,7 @@
 # grokking_algorithms
 
-> [!TIP] based on the book by Aditya Bhargava
+> [!TIP]
+> based on the book by Aditya Bhargava
 
 ## Chapter 1.
 
